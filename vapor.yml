@@ -5,6 +5,7 @@ environments:
         memory: 1024
         cli-memory: 512
         database: rackless-vapor
+        domain: vapor.rackless.build
         build:
             - 'composer install --no-dev --classmap-authoritative'
             - 'php artisan event:cache'
