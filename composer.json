@@ -1,0 +1,10 @@
+{
+    "name": "mickythompson/build-rackless-vapor",
+    "authors": [
+        {
+            "name": "Micky Thompson",
+            "email": "micky.thompson@rackless.com"
+        }
+    ],
+    "require": {}
+}
